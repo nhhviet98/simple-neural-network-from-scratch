@@ -1,4 +1,4 @@
-# AI_Internship
+# A Simple Artificial Neural Network (ANN) from scratch
 This is a simple project for deep learning. I developed a simple Neural Network with numpy liobrary only.
 
 My code is quite similar to Keras of TensorFlow. So you can add method to build your own a difference ANN (Artifical Neural Network) structure and try it with your dataset.
