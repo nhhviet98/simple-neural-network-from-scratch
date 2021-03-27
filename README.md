@@ -28,8 +28,7 @@ https://github.com/nhhviet98/simple-neural-network-from-scratch/blob/master/Simp
 
 # Simple Neural Network
 ```
-cd vietnhh
-cd SimpleNeuralNetwork
+cd simple-neural-network-from-scratch
 python SinpleNeuralNetwork.py
 ```
 
