@@ -5,7 +5,9 @@ My code is quite similar to Keras of TensorFlow. So you can add method to build 
 
 # Notebook
 
-To read more informations about 
+Read my note book at:
+
+https://github.com/nhhviet98/simple-neural-network-from-scratch/blob/master/SimpleNNVietnhh.ipynb
 
 ### Folder tree:
 ```
