@@ -35,7 +35,7 @@ python SinpleNeuralNetwork.py
 # Model Structure
 
 <p align="center">
-<img src="image/ModelStructure.png">
+<img src="image/ModelStructure.PNG">
 </p>
 
 # Dataset
